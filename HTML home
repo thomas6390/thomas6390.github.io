@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+
+
+
+
+<html>
+
+
+<head>
+
+
+<link rel="stylesheet" type="text/css" href="Style.css">
+
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+
+<!-- Alle inhoud van de pagina -->
+
+
+<div class="header">
+
+
+<h1>JDM</h1>
+
+
+<p>Dit is een overzicht van de beste JDM sportcars van de jaren 90.</p>
+
+
+	
+
+
+<img src="https://i.pinimg.com/originals/04/a9/6b/04a96ba907a0d3b24a4d66ac0242ae69.jpg" width="640" height="360"/>
+
+
+	
+
+
+<p>Dit is de website van Lars Deckers.<br />Ik houdt van JDM cars, met name degene uit de jaren 90. Ik deel mijn passie graag met jullie</p>
+
+
+</div>
+
+
+</body>
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Navaigatie -->
+
+
+<div class="w3-top">
+
+
+ <div class="w3-bar w3-black w3-card">
+
+
+ <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+
+
+ <a href="home.html" class="w3-bar-item w3-button w3-padding-large" target="main">HOME</a>
+
+
+ <a href="NissanGTR.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">GTR</a>
+
+
+ <a href="ToyotaSupra.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">SUPRA</a>
+
+
+ <a href="HondaNSX.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">NSX</a>
+
+
+ <a href="MazdaRX-7.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">RX-7</a>
+
+
+</div>
+
+
+
+
+
+
+
+<!-- De informatie van de navigatiebalk -->
+
+
+<div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
+
+
+ <a href="home.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">HOME</a>
+
+
+ <a href="NissanGTR.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">GTR</a>
+
+
+ <a href="ToyotaSupra.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">SUPRA</a>
+
+
+ <a href="HondaNSX.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">NSX</a>
+
+
+ <a href="MazdaRX-7.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">RX-7</a>
+
+
+</div>
+
+
+
+
+
+
+
+</body>
+
+
+</html>
