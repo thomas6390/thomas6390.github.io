@@ -1,0 +1,87 @@
+<h1>Honda NSX</h1>
+
+<p>Dit is de Honda NSX, ookwel de Ferrarikiller uit Japan. De auto met de beste looks van dit rijtje naar mijn mening</p>
+
+<img src="https://www.wsupercars.com/wallpapers/Honda/1990-Honda-NSX-012-1080.jpg" width="640" height="360"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HiPMekzQndY?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>De auto heeft standaard 270 PK en 285 NM koppel. De auto weegt 1365 kilo en heeft een topsnelheid van 270 km/h. De auto is 2-deurs en heeft een midmoter met een 3 liter 6 cilinder. De motor heeft geen turbo's.</p>
+
+<!DOCTYPE html>
+
+
+
+
+<html>
+
+
+<head>
+
+
+<link rel="stylesheet" type="text/css" href="Style.css">
+
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+
+
+<body>
+
+  <!-- Navaigatie -->
+
+
+<div class="w3-top">
+
+
+ <div class="w3-bar w3-black w3-card">
+
+
+   <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+
+
+   <a href="home.html" class="w3-bar-item w3-button w3-padding-large" target="main">HOME</a>
+
+
+   <a href="NissanGTR.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">GTR</a>
+
+
+   <a href="ToyotaSupra.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">SUPRA</a>
+
+
+   <a href="HondaNSX.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">NSX</a>
+
+
+   <a href="MazdaRX-7.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">RX-7</a>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+Bijlagen
+Voorbeeld van YouTube-video Ultimate Honda/Acura NSX Sound Compilation weergeven
+
