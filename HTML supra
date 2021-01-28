@@ -1,0 +1,88 @@
+<h1>Toyota Supra</h1>
+
+<p>Dit is de Toyota Supra, dit achterwielaangedreven monster is koning van de rechte lijnen.</p>
+
+<img src="https://cdn.shopify.com/s/files/1/0121/7150/9819/files/Buying-a-Toyota-Supra-Mk4-e1524136001736.jpg?v=1542489120" width="640" height="360"/>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xX-dvCTBhlM?start=19" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>De Supra leverde standaard 325 PK. Hij woog 1565 KG. De 5-cilinder motor ligt voorin en alle aandrijving gaat via de achterbanden. Deze auto kom je zelden standaard tegen, je kan deze auto tot meer dan 1500 PK tunen.</p>
+
+<!DOCTYPE html>
+
+
+
+
+<html>
+
+
+<head>
+
+
+<link rel="stylesheet" type="text/css" href="Style.css">
+
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+
+
+<body>
+
+ <!-- Navaigatie -->
+
+
+<div class="w3-top">
+
+
+ <div class="w3-bar w3-black w3-card">
+
+
+   <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+
+
+   <a href="home.html" class="w3-bar-item w3-button w3-padding-large" target="main">HOME</a>
+
+
+   <a href="NissanGTR.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">GTR</a>
+
+
+   <a href="ToyotaSupra.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">SUPRA</a>
+
+
+   <a href="HondaNSX.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">NSX</a>
+
+
+   <a href="MazdaRX-7.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small" target="main">RX-7</a>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
+Bijlagen
+Voorbeeld van YouTube-video Ultimate Toyota Supra Turbo Sounds Compilation. (Loud Exhausts - Blow off - HD) weergeven
+
